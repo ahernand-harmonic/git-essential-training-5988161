@@ -1,1 +1,1 @@
-This is some text used for example.
+This is some text used for example!
